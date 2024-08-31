@@ -1,0 +1,33 @@
+/* ProductDetails.css */
+.product-details {
+    padding: 20px;
+  }
+  
+  .product-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  .product-details h1 {
+    margin-bottom: 20px;
+  }
+  
+  .quantity-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .add-to-cart-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .add-to-cart-btn:hover {
+    background-color: #218838;
+  }
+  
