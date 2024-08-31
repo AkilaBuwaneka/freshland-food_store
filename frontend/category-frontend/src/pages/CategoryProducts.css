@@ -1,0 +1,11 @@
+.productsDiv {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2vw;
+}
+
+.main {
+    width: 100%;
+    padding: 1vw 2vw;
+}

@@ -1,0 +1,12 @@
+.ddc {
+    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 10px;
+}
+
+.ddc .card {
+    width: 200px;
+    height: 200px;
+}
